@@ -54,7 +54,7 @@
     "language" : [ "en" ]
   } ],
   "seeAlso" : [ {
-    "id" : "input NODE URL hyperlink",
+    "id" : "https://node.uchicago.edu",
     "type" : "Text",
     "label" : {
       "en" : [ "See Le Roman de la Rose" ]
