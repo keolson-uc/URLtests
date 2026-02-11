@@ -1,0 +1,15 @@
+{
+  "id" : "https://keolson-uc.github.io/URLtests/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in keolson-uc/URLtests project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://keolson-uc.github.io/URLtests/manifests/pres2025-0750_1215.json",
+    "label" : {
+      "en" : [ "[245 $a $k $f]" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
