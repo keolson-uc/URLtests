@@ -17,5 +17,11 @@
       "en" : [ "[245 $a $k $f]" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/URLtests/manifests/pres2025-0750_0331.json",
+    "label" : {
+      "en" : [ "[245 $a $k $f]" ]
+    },
+    "type" : "Manifest"
   } ]
 }
