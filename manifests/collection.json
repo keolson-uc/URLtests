@@ -23,5 +23,11 @@
       "en" : [ "[245 $a $k $f]" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/URLtests/manifests/link.json",
+    "label" : {
+      "en" : [ "[245 $a $k $f]" ]
+    },
+    "type" : "Manifest"
   } ]
 }
