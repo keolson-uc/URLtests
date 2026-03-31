@@ -92,8 +92,8 @@
     "format" : "image/jpeg",
     "service" : [ {
       "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000013",
-      "type" : "ImageService2",
-      "profile" : "http://iiif.io/api/image/2/level2.json"
+      "type" : "ImageService3",
+      "profile" : "level2"
     } ]
   } ],
   "start" : {
@@ -116,15 +116,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000001/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000001/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6778,
           "width" : 4960,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000001",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000001/canvas/00000001"
@@ -146,15 +146,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000002/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000002/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6783,
           "width" : 4765,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000002",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000002/canvas/00000002"
@@ -176,15 +176,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000003/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000003/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6541,
           "width" : 4513,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000003",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000003/canvas/00000003"
@@ -206,15 +206,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000004/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000004/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6592,
           "width" : 4652,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000004",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000004/canvas/00000004"
@@ -236,15 +236,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000005/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000005/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6558,
           "width" : 4535,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000005",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000005/canvas/00000005"
@@ -266,15 +266,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000006/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000006/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6558,
           "width" : 4544,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000006",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000006/canvas/00000006"
@@ -296,15 +296,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000007/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000007/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6541,
           "width" : 4474,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000007",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000007/canvas/00000007"
@@ -326,15 +326,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000008/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000008/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6519,
           "width" : 4487,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000008",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000008/canvas/00000008"
@@ -356,15 +356,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000009/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000009/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6449,
           "width" : 4530,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000009",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000009/canvas/00000009"
@@ -386,15 +386,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000010/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000010/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6507,
           "width" : 4544,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000010",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000010/canvas/00000010"
@@ -416,15 +416,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000011/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000011/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6480,
           "width" : 4518,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000011",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000011/canvas/00000011"
@@ -446,15 +446,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000012/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000012/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6493,
           "width" : 4544,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000012",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000012/canvas/00000012"
@@ -476,15 +476,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000013/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000013/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4518,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000013",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000013/canvas/00000013"
@@ -506,15 +506,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000014/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000014/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6613,
           "width" : 4461,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000014",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000014/canvas/00000014"
@@ -536,15 +536,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000015/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000015/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6541,
           "width" : 4461,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000015",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000015/canvas/00000015"
@@ -566,15 +566,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000016/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000016/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6605,
           "width" : 4475,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000016",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000016/canvas/00000016"
@@ -596,15 +596,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000017/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000017/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6549,
           "width" : 4340,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000017",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000017/canvas/00000017"
@@ -626,15 +626,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000018/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000018/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6584,
           "width" : 4466,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000018",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000018/canvas/00000018"
@@ -656,15 +656,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000019/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000019/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6574,
           "width" : 4458,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000019",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000019/canvas/00000019"
@@ -686,15 +686,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000020/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000020/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6588,
           "width" : 4414,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000020",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000020/canvas/00000020"
@@ -716,15 +716,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000021/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000021/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6566,
           "width" : 4435,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000021",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000021/canvas/00000021"
@@ -746,15 +746,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000022/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000022/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6592,
           "width" : 4487,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000022",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000022/canvas/00000022"
@@ -776,15 +776,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000023/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000023/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6540,
           "width" : 4379,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000023",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000023/canvas/00000023"
@@ -806,15 +806,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000024/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000024/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6571,
           "width" : 4475,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000024",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000024/canvas/00000024"
@@ -836,15 +836,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000025/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000025/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6545,
           "width" : 4379,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000025",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000025/canvas/00000025"
@@ -866,15 +866,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000026/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000026/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6497,
           "width" : 4371,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000026",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000026/canvas/00000026"
@@ -896,15 +896,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000027/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000027/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6558,
           "width" : 4353,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000027",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000027/canvas/00000027"
@@ -926,15 +926,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000028/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000028/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6527,
           "width" : 4427,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000028",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000028/canvas/00000028"
@@ -956,15 +956,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000029/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000029/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6535,
           "width" : 4349,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000029",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000029/canvas/00000029"
@@ -986,15 +986,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000030/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000030/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4349,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000030",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000030/canvas/00000030"
@@ -1016,15 +1016,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000031/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000031/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4388,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000031",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000031/canvas/00000031"
@@ -1046,15 +1046,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000032/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000032/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6546,
           "width" : 4362,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000032",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000032/canvas/00000032"
@@ -1076,15 +1076,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000033/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000033/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6567,
           "width" : 4336,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000033",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000033/canvas/00000033"
@@ -1106,15 +1106,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000034/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000034/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6549,
           "width" : 4387,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000034",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000034/canvas/00000034"
@@ -1136,15 +1136,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000035/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000035/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6545,
           "width" : 4288,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000035",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000035/canvas/00000035"
@@ -1166,15 +1166,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000036/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000036/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6554,
           "width" : 4348,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000036",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000036/canvas/00000036"
@@ -1196,15 +1196,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000037/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000037/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6540,
           "width" : 4336,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000037",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000037/canvas/00000037"
@@ -1226,15 +1226,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000038/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000038/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6536,
           "width" : 4370,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000038",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000038/canvas/00000038"
@@ -1256,15 +1256,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000039/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000039/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6550,
           "width" : 4301,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000039",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000039/canvas/00000039"
@@ -1286,15 +1286,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000040/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000040/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6531,
           "width" : 4362,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000040",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000040/canvas/00000040"
@@ -1316,15 +1316,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000041/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000041/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6562,
           "width" : 4331,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000041",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000041/canvas/00000041"
@@ -1346,15 +1346,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000042/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000042/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6536,
           "width" : 4305,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000042",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000042/canvas/00000042"
@@ -1376,15 +1376,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000043/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000043/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6540,
           "width" : 4305,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000043",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000043/canvas/00000043"
@@ -1406,15 +1406,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000044/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000044/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6566,
           "width" : 4357,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000044",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000044/canvas/00000044"
@@ -1436,15 +1436,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000045/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000045/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4275,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000045",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000045/canvas/00000045"
@@ -1466,15 +1466,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000046/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000046/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6545,
           "width" : 4392,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000046",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000046/canvas/00000046"
@@ -1496,15 +1496,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000047/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000047/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6554,
           "width" : 4262,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000047",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000047/canvas/00000047"
@@ -1526,15 +1526,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000048/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000048/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6549,
           "width" : 4357,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000048",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000048/canvas/00000048"
@@ -1556,15 +1556,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000049/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000049/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6592,
           "width" : 4283,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000049",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000049/canvas/00000049"
@@ -1586,15 +1586,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000050/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000050/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6540,
           "width" : 4309,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000050",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000050/canvas/00000050"
@@ -1616,15 +1616,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000051/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000051/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6584,
           "width" : 4236,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000051",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/000000501/canvas/00000051"
@@ -1646,15 +1646,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000052/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000052/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6546,
           "width" : 4271,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000052",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000052/canvas/00000052"
@@ -1676,15 +1676,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000053/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000053/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6547,
           "width" : 4284,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000053",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000053/canvas/00000053"
@@ -1706,15 +1706,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000054/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000054/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6536,
           "width" : 4448,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000054",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000054/canvas/00000054"
@@ -1736,15 +1736,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000055/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000055/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6597,
           "width" : 4427,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000055",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000055/canvas/00000055"
@@ -1766,15 +1766,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000056/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000056/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6614,
           "width" : 4501,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000056",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000056/canvas/00000056"
@@ -1796,15 +1796,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000057/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000057/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6580,
           "width" : 4327,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000057",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000057/canvas/00000057"
@@ -1826,15 +1826,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000058/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000058/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6579,
           "width" : 4392,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000058",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000058/canvas/00000058"
@@ -1856,15 +1856,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000059/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000059/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6597,
           "width" : 4392,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000059",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000059/canvas/00000059"
@@ -1886,15 +1886,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000060/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000060/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6588,
           "width" : 4435,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000060",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000060/canvas/00000060"
@@ -1916,15 +1916,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000061/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000061/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6580,
           "width" : 4379,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000061",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000061/canvas/00000061"
@@ -1946,15 +1946,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000062/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000062/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6570,
           "width" : 4401,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000062",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000062/canvas/00000062"
@@ -1976,15 +1976,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000063/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000063/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6580,
           "width" : 4405,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000063",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000063/canvas/00000063"
@@ -2006,15 +2006,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000064/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000064/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6614,
           "width" : 4444,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000064",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000064/canvas/00000064"
@@ -2036,15 +2036,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000065/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000065/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6570,
           "width" : 4396,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000065",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000065/canvas/00000065"
@@ -2066,15 +2066,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000066/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000066/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6566,
           "width" : 4397,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000066",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000066/canvas/00000066"
@@ -2096,15 +2096,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000067/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000067/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6548,
           "width" : 4418,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000067",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000067/canvas/00000067"
@@ -2126,15 +2126,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000068/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000068/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6540,
           "width" : 4470,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000068",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000068/canvas/00000068"
@@ -2156,15 +2156,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000069/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000069/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6584,
           "width" : 4396,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000069",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000069/canvas/00000069"
@@ -2186,15 +2186,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000070/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000070/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6566,
           "width" : 4452,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000070",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000070/canvas/00000070"
@@ -2216,15 +2216,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000071/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000071/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4413,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000071",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000071/canvas/00000071"
@@ -2246,15 +2246,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000072/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000072/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6558,
           "width" : 4375,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000072",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000072/canvas/00000072"
@@ -2276,15 +2276,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000073/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000073/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6584,
           "width" : 4422,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000073",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000073/canvas/00000073"
@@ -2306,15 +2306,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000074/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000074/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6579,
           "width" : 4361,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000074",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000074/canvas/00000074"
@@ -2336,15 +2336,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000075/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000075/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6544,
           "width" : 4379,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000075",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000075/canvas/00000075"
@@ -2366,15 +2366,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000076/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000076/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6545,
           "width" : 4396,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000076",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000076/canvas/00000076"
@@ -2396,15 +2396,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000077/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000077/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6597,
           "width" : 4474,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000077",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000077/canvas/00000077"
@@ -2426,15 +2426,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000078/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000078/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6523,
           "width" : 4431,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000078",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000078/canvas/00000078"
@@ -2456,15 +2456,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000079/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000079/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6584,
           "width" : 4474,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000079",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000079/canvas/00000079"
@@ -2486,15 +2486,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000080/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000080/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6553,
           "width" : 4401,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000080",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000080/canvas/00000080"
@@ -2516,15 +2516,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000081/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000081/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6618,
           "width" : 4448,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000081",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000081/canvas/00000081"
@@ -2546,15 +2546,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000082/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000082/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6571,
           "width" : 4418,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000082",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000082/canvas/00000082"
@@ -2576,15 +2576,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000083/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000083/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6608,
           "width" : 4383,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000083",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000083/canvas/00000083"
@@ -2606,15 +2606,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000084/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000084/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6536,
           "width" : 4414,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000084",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000084/canvas/00000084"
@@ -2636,15 +2636,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000085/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000085/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6609,
           "width" : 4418,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000085",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000085/canvas/00000085"
@@ -2666,15 +2666,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000086/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000086/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4370,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000086",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000086/canvas/00000086"
@@ -2696,15 +2696,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000087/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000087/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6619,
           "width" : 4465,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000087",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000087/canvas/00000087"
@@ -2726,15 +2726,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000088/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000088/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6586,
           "width" : 4422,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000088",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000088/canvas/00000088"
@@ -2756,15 +2756,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000089/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000089/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6596,
           "width" : 4427,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000089",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000089/canvas/00000089"
@@ -2786,15 +2786,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000090/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000090/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6553,
           "width" : 4379,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000090",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000090/canvas/00000090"
@@ -2816,15 +2816,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000091/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000091/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6575,
           "width" : 4513,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000091",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000091/canvas/00000091"
@@ -2846,15 +2846,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000092/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000092/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6475,
           "width" : 4387,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000092",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000092/canvas/00000092"
@@ -2876,15 +2876,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000093/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000093/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6551,
           "width" : 4513,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000093",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000093/canvas/00000093"
@@ -2906,15 +2906,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000094/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000094/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6497,
           "width" : 4431,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000094",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000094/canvas/00000094"
@@ -2936,15 +2936,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000095/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000095/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 1600,
           "width" : 4518,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000095",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000095/canvas/00000095"
@@ -2966,15 +2966,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000096/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000096/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6467,
           "width" : 4431,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000096",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000096/canvas/00000096"
@@ -2996,15 +2996,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000097/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000097/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6536,
           "width" : 4557,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000097",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000097/canvas/00000097"
@@ -3026,15 +3026,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000098/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000098/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6545,
           "width" : 4548,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000098",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000098/canvas/00000098"
@@ -3056,15 +3056,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000099/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000099/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6614,
           "width" : 4631,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000099",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000099/canvas/00000099"
@@ -3086,15 +3086,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000100/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000100/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6549,
           "width" : 4509,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000100",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000100/canvas/00000100"
@@ -3116,15 +3116,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000101/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000101/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6767,
           "width" : 4782,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000101",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000101/canvas/00000101"
@@ -3146,15 +3146,15 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000102/file.vaf.tif/full/full/0/default.jpg",
+          "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000102/file.vaf.tif/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 6692,
           "width" : 4847,
           "service" : [ {
             "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000102",
-            "type" : "ImageService2",
-            "profile" : "http://iiif.io/api/image/2/level2.json"
+            "type" : "ImageService3",
+            "profile" : "level2"
           } ]
         },
         "target" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000102/canvas/00000102"
@@ -3162,17 +3162,27 @@
     } ]
   } ],
   "structures" : [ {
-    "id" : "https://iiif-collection.lib.uchicago.edu/object/ark:61001/b2hd4d25q386/range/toc",
+    "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/range/toc",
     "type" : "Range",
     "label" : {
       "en" : [ "Table of Contents" ]
     },
+    "thumbnail" : [ {
+      "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/xxx/00000001/file.vaf.tif/full/200,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg"
+    } ],
     "items" : [ {
-      "id" : "https://iiif-collection.lib.uchicago.edu/object/ark:61001/b2hd4d25q386/range/1",
+      "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/range/1",
       "type" : "Range",
       "label" : {
         "en" : [ "Cover" ]
       },
+      "thumbnail" : [ {
+        "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000001/file.vaf.tif/full/200,/0/default.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg"
+      } ],
       "items" : [ {
         "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000001/canvas/00000001",
         "type" : "Canvas"
@@ -3183,6 +3193,11 @@
       "label" : {
         "en" : [ "Body" ]
       },
+      "thumbnail" : [ {
+        "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000002/file.vaf.tif/full/200,/0/default.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg"
+      } ],
       "items" : [ {
         "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000002/canvas/00000002",
         "type" : "Canvas"
@@ -3485,11 +3500,16 @@
         "type" : "Canvas"
       } ]
     }, {
-      "id" : "https://iiif-collection.lib.uchicago.edu/object/ark:61001/b2hd4d25q386/range/3",
+      "id" : "https://iiif-collection.lib.uchicago.edu/ark:61001/b2hd4d25q386/range/3",
       "type" : "Range",
       "label" : {
         "en" : [ "Cover" ]
       },
+      "thumbnail" : [ {
+        "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000102/file.vaf.tif/full/200,/0/default.jpg",
+        "type" : "Image",
+        "format" : "image/jpeg"
+      } ],
       "items" : [ {
         "id" : "https://iiif-image.lib.uchicago.edu/ark:61001/b2hd4d25q386/00000102/canvas/00000102",
         "type" : "Canvas"
